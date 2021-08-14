@@ -1,0 +1,19 @@
+{
+    "name": "boolfalse/larapage",
+    "description": "Customizable Pagination package for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BoolFalse",
+            "email": "contact@boolfalse.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Boolfalse\\Larapage\\": "src/"
+        }
+    }
+}
