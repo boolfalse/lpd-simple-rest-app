@@ -20,7 +20,7 @@ cd larapage/
 
 - Add this in "config/app.php@providers":
 ```
-"Boolfalse\\Larapage\\": "boolfalse/larapage/src/"
+Boolfalse\Larapage\PaginationServiceProvider::class,
 ```
 
 - Add this in "composer.json@autoload-dev.psr-4":
